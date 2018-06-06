@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: surbtc
+      database: surbtc
+      username: user
+      password: 123456
+      uri: mongodb://user:123456@localhost/surbtc
