@@ -1,0 +1,5 @@
+facosta\dto\Address.class
+facosta\dto\User.class
+facosta\dto\Company.class
+facosta\dto\Geo.class
+facosta\RestParser.class
